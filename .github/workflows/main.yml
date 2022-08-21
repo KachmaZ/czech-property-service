@@ -37,4 +37,4 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: czech-property-service/build # The folder the action should deploy.
+          folder: public/build # The folder the action should deploy.
